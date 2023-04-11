@@ -1,0 +1,13 @@
+.primary-nav {
+    display: flex;
+    gap: 2em;
+    padding: 1em 2em;
+    font-size: 1.5rem;
+    background-color: black;
+    
+}
+
+.primary-nav-items {
+    color: white;
+    text-decoration: none;
+}
